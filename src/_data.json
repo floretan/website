@@ -392,14 +392,14 @@
       "email": "m.emrich@webmasters.de"
     },
     {
-      "name": "Stefanie Hasler",
-      "photo": "stefanie.png",
-      "email": "stefanie.hasler@codecentric.de"
-    },
-    {
       "name": "David Losert",
       "photo": "david.jpg",
       "email": "david.losert@virtual-identity.com"
+    },
+    {
+      "name": "Marc Wißler",
+      "photo": "marc.jpg",
+      "email": "marc.wissler@virtual-identity.com"
     }
   ]
 }
